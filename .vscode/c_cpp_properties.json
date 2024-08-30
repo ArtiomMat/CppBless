@@ -1,0 +1,38 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17"
+        },
+        {
+            "name": "Windows",
+            "includePath": [
+                "/home/doomguy/Projects/Bless/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/x86_64-w64-mingw32-gcc",
+            "cStandard": "c23",
+            "compilerPathInCppPropertiesJson": "/usr/bin/gcc",
+            "compilerArgs": [
+                "-Wall",
+                "-Wextra"
+            ],
+            "cppStandard": "c++23",
+            "intelliSenseMode": "windows-gcc-x64",
+            "mergeConfigurations": false,
+            "browse": {
+                "path": [
+                    "/home/doomguy/Projects/Bless/**",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true
+            }
+        }
+    ],
+    "version": 4
+}
