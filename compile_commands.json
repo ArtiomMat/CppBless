@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/doomguy/Projects/Bless/build",
+  "command": "/usr/bin/g++ -DBless_EXPORTS -I/home/doomguy/Projects/Bless/include -g -std=gnu++23 -fPIC -Wall -o CMakeFiles/Bless.dir/src/Terminal.cpp.o -c /home/doomguy/Projects/Bless/src/Terminal.cpp",
+  "file": "/home/doomguy/Projects/Bless/src/Terminal.cpp",
+  "output": "CMakeFiles/Bless.dir/src/Terminal.cpp.o"
+},
+{
+  "directory": "/home/doomguy/Projects/Bless/build",
+  "command": "/usr/bin/g++ -DBless_EXPORTS -I/home/doomguy/Projects/Bless/include -g -std=gnu++23 -fPIC -Wall -o CMakeFiles/Bless.dir/src/linux/Terminal.cpp.o -c /home/doomguy/Projects/Bless/src/linux/Terminal.cpp",
+  "file": "/home/doomguy/Projects/Bless/src/linux/Terminal.cpp",
+  "output": "CMakeFiles/Bless.dir/src/linux/Terminal.cpp.o"
+},
+{
+  "directory": "/home/doomguy/Projects/Bless/build/examples",
+  "command": "/usr/bin/g++  -I/home/doomguy/Projects/Bless/include -g -std=gnu++23 -Wall -o CMakeFiles/Demo.dir/Demo.cpp.o -c /home/doomguy/Projects/Bless/examples/Demo.cpp",
+  "file": "/home/doomguy/Projects/Bless/examples/Demo.cpp",
+  "output": "examples/CMakeFiles/Demo.dir/Demo.cpp.o"
+}
+]
