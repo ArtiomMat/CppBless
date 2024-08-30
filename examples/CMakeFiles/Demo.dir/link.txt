@@ -1,1 +1,0 @@
-/usr/bin/g++ -g CMakeFiles/Demo.dir/Demo.cpp.o -o Demo  -Wl,-rpath,/home/doomguy/Projects/Bless/build ../libBless.so 

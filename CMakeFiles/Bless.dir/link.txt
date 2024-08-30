@@ -1,1 +1,0 @@
-/usr/bin/g++ -fPIC -g -shared -Wl,-soname,libBless.so -o libBless.so CMakeFiles/Bless.dir/src/Terminal.cpp.o CMakeFiles/Bless.dir/src/linux/Terminal.cpp.o 
